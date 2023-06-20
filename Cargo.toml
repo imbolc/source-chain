@@ -1,0 +1,13 @@
+[package]
+description = "Formats StdError with it's source chain"
+edition = "2021"
+license = "MIT"
+name = "source-chain"
+repository = "https://github.com/imbolc/source-chain"
+version = "0.1.0"
+
+[dependencies]
+
+[dev-dependencies]
+rusty-hook = "0.11"
+thiserror = "1"
